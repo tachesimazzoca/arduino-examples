@@ -10,7 +10,7 @@ This example demonstrates how to map an analog sensor value to the LED brightnes
 
 ## Hardware Required
 
-* Arudino UNO
+* Arudino Board
 * Photoresistor
 * 10k ohm resistor
 * LED

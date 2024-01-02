@@ -10,7 +10,7 @@ This example turns ON / OFF the built-in LED periodically. The interval can be m
 
 ## Hardware Required
 
-* Arudino UNO
+* Arudino Board
 * Momentary button
 * 10k ohm resistor
 

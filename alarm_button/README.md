@@ -4,7 +4,7 @@
 
 ## Hardware Required
 
-* Arduino UNO 3
+* Arduino Board
 * Momentary button
 * 10k ohm resistor
 * 8 ohm speaker

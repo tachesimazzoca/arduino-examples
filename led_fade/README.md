@@ -8,7 +8,7 @@ This example demonstrates an analog output (PWM) to fade an LED.
 
 ## Hardware Required
 
-* Arduino UNO
+* Arduino Board
 * 200 ohm resistor
 * LED
 
